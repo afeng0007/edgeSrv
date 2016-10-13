@@ -2,7 +2,7 @@
   "name": "edgesrv",
   "version": "1.0.0",
   "description": "edge server for user connect",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies":{
     "socket.io":"^1.5.0",
     "mocha":""

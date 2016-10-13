@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "edge server for user connect",
   "main": "app.js",
-  "dependencies":{
-    "socket.io":"^1.5.0",
-    "mocha":""
+  "dependencies": {
+    "lodash": "^4.16.4",
+    "mocha": "^3.1.2",
+    "socket.io": "^1.5.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
